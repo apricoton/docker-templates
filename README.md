@@ -11,3 +11,6 @@ docker-compose up -d
 
 ## lamop
 * Linux + Apache + MongoDB + PHP
+
+## amazon_lamp
+* Amazon Linux + Apache + MySQL + PHP
