@@ -8,3 +8,6 @@ docker-compose up -d
 
 ## lampp
 * Linux + Apache + MySQL + PHP + Perl
+
+## lamop
+* Linux + Apache + MongoDB + PHP
