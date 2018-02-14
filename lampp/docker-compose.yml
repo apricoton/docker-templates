@@ -17,9 +17,9 @@ services:
       - ./config/mysql:/etc/mysql/conf.d
       - my_data:/var/lib/mysql
     environment:
-      MYSQL_ROOT_PASSWORD: lamp
-      MYSQL_DATABASE: lamp
-      MYSQL_USER: lamp
-      MYSQL_PASSWORD: lamp
+      MYSQL_ROOT_PASSWORD: lampp
+      MYSQL_DATABASE: lampp
+      MYSQL_USER: lampp
+      MYSQL_PASSWORD: lampp
 volumes:
   my_data: {}
